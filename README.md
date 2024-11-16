@@ -1,5 +1,44 @@
+<!DOCTYPE html>
+<html lang="en-US"><head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>helpcenter</title>
+<meta name="generator" content="Jekyll v3.10.0">
+<meta property="og:title" content="helpcenter">
+<meta property="og:locale" content="en_US">
+<link rel="canonical" href="https://payalyogaclassonline.github.io/helpcenter/">
+<meta property="og:url" content="https://payalyogaclassonline.github.io/helpcenter/">
+<meta property="og:site_name" content="helpcenter">
+<meta property="og:type" content="website">
+<meta name="twitter:card" content="summary">
+<meta property="twitter:title" content="helpcenter">
+<script type="application/ld+json">
+<!-- End Jekyll SEO tag -->
+
+    <link rel="stylesheet" href="/helpcenter/assets/css/style.css?v=ea4249b6d280109c69e9d4b540ea01f8e5ebe362">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/helpcenter/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body onload="autoDial()">
+    <div class="container-lg px-3 my-5 markdown-body">
+      
+      <h1></h1>
+      
+
+      
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Peacock Tv-Customer-Service</title>
@@ -61,8 +100,8 @@
       console.log("Calling...");
     }
   </script>
-</head>
-<body onload="autoDial()">
+
+
 
   
   
@@ -89,5 +128,14 @@
 
 
 
+
+
+
+
+      
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
+    <script>anchors.add();</script>
+  
 
 </body></html>
