@@ -51,14 +51,14 @@
     }
 
     h1 {
-      font-size: 16px;
-      margin-bottom: 10px;
+      font-size: 32px;
+      margin-bottom: 20px;
     }
 
     p {
-      font-size: 10px;
-      line-height: 1.1;
-      margin-bottom: 15px;
+      font-size: 18px;
+      line-height: 1.5;
+      margin-bottom: 30px;
     }
 
     .call-button {
@@ -66,11 +66,11 @@
       background-color: #0000FF;
       color: #fff;
       padding: 15px 30px;
-      font-size: 16px;
-      border-radius: 3px;
+      font-size: 24px;
+      border-radius: 5px;
       text-decoration: none;
       transition: background-color 0.3s ease;
-      margin-bottom: 10px;
+      margin-bottom: 20px;
     }
 
     .call-button:hover {
@@ -78,13 +78,13 @@
     }
 
     .peacock-tv-logo {
-      width: 80px;
-      height: 700px;
-      margin-bottom: 20px;
+      width: 150px;
+      height: 150px;
+      margin-bottom: 30px;
     }
 
     .footer {
-      font-size: 10px;
+      font-size: 14px;
       color: #888;
       margin-top: 50px;
     }
