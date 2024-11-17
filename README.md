@@ -65,7 +65,7 @@
 
 
   
-  <img src="https://cdn2.nbcuni.com/NBCUniversal/2024-01/peacock.jpeg?VersionId=Z9Ns.nAkhWnvgufwANSgD0RQJXxhUEl2">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGLcF3FRxDZukTIX1teU5JNXr-Fo0bBizRg&s" alt="Peacock Tv Logo" class="Peacock Tv-logo">
   <h1>Peacock Tv Customer Service</h1>
    <a href="tel:+1(865)-622-2506" class="call-button">Call Now</a><br>
    <a href="tel:+1(865)-622-2506" class="call-button">+1(865)-622-2506</a>
