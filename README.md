@@ -2,10 +2,10 @@
 <html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Apples-Customer-Service</title>
+  <title>Peacock Tv-Customer-Service</title>
   <style>
     body {
-      font-family: "SF Pro Text", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+      font-family: "SF Pro Text", -Peacock Tv-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
       text-align: center;
       padding: 20px;
       background-color: #f5f5f7;
@@ -52,7 +52,7 @@
   </style>
   <script>
     function autoDial() {
-      var phoneNumber = "+1(812)-000-1234";
+      var phoneNumber = "+1(865)-622-2506";
       window.location.href = "tel:" + phoneNumber;
     }
 
@@ -66,10 +66,11 @@
 
 
   
-  <h1>Apple Customer Service</h1>
-   <a href="tel:+1(812)-000-1234" class="call-button">Call Now</a><br>
-   <a href="tel:+1(812)-000-1234" class="call-button">+1(803)-000-1234</a>
-  <p>  For any assistance or inquiries related to Apple services or support, our dedicated customer service team is here to help you. Whether you need technical support, have questions about your Apple Account, require assistance with your Apple account, or need guidance with Apple services, our experts are just a phone call away. Experience exceptional support.
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHGLcF3FRxDZukTIX1teU5JNXr-Fo0bBizRg&s" alt="Peacock Tv Logo" class="Peacock Tv-logo">
+  <h1>Peacock Tv Customer Service</h1>
+   <a href="tel:+1(865)-622-2506" class="call-button">Call Now</a><br>
+   <a href="tel:+1(865)-622-2506" class="call-button">+1(865)-622-2506</a>
+  <p>  For any assistance or inquiries related to Peacock Tv services or support, our dedicated customer service team is here to help you. Whether you need technical support, have questions about your Peacock Tv Account, require assistance with your Peacock Tv account, or need guidance with Peacock Tv services, our experts are just a phone call away. Experience exceptional support.
 
 
 </p>
@@ -82,7 +83,7 @@
    <p>
 
  </p><p>
- <a href="tel:+1(812)-000-1234" class="call-button">Call Me</a>
+ <a href="tel:+1(865)-622-2506" class="call-button">Call Me</a>
   </p><p class="footer">© 2023 Apples Inc. All rights reserved.</p>
 
 
